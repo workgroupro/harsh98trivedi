@@ -44,10 +44,10 @@ links:
     Icon-Class: fab fa-github
 
        # vk
-  - Name: GitHub
+  - Name: vk
     URL: http://vk.com
     Username: workgroupro
-    Color: '#6e5494'
+    Color: '#00bfff'
     Icon-Class: fab fa-vk
     
    # TWITTER
