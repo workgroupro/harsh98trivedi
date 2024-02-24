@@ -1,0 +1,313 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: WorkGroupro
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: Hello friend, just some links, no other content!
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://yxw.me/img/workgroup.png
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://yxw.me/img/3.png
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+
+    
+    # CUSTOM LINK
+  - Name: Blog
+    URL: https://hbw.me
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+  - Name: Links
+    URL: https://workgroup.github.io
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: workgroupro
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+    
+   # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: workgroupro
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+    
+   # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: workgroupro
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+    
+ # EMAIL
+  - Name: Email
+    URL: 'mailto:HelloWorkDev@Gmail.Com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+  
+    # INSTAGRAM
+  # - Name: Instagram
+  #  URL: https://www.instagram.com
+  #  Username: harsh98trivedi
+  #  Color: '#DD2A7B'
+  #  Icon-Class: fab fa-instagram
+
+     # THREADS.NET
+  #  - Name: Threads
+  #    URL: https://threads.net/
+  #    Username: harsh98trivedi
+  #   Color: '#000000'
+  #   Icon-Class: fa-brands fa-threads
+  #    Text_Color: '#ffffff'
+
+    # CLUBHOUSE
+  #  - Name: Clubhouse
+  #    URL: https://www.clubhouse.com
+  #    Username: '@workgroupro'
+  #   Color: '#f1c40f'
+  #    Icon-Class: fas fa-hand-paper -mt-0.5
+    
+    # LINKEDIN
+  #  - Name: LinkedIn
+  #    URL: https://www.linkedin.com/in
+  #   Username: workgroupro
+  #   Color: '#2867B2'
+  #    Icon-Class: fab fa-linkedin-in
+
+    # YOUTUBE
+  #  - Name: YouTube
+  #    URL: https://www.youtube.com/channel
+  #    Username: workgroupro
+  #    Color: '#ff0000'
+  #   Icon-Class: fab fa-youtube
+
+    # WordPress
+  #  - Name: WordPress.org
+  #    URL: 'https://profiles.wordpress.org'
+  #   Username: workgroupro
+  #   Icon-Class: fa-brands fa-wordpress-simple
+  #   Color: '#0073AA'
+  #   Text_Color: '#ffffff'
+
+  #   # Drupal
+  # - Name: Drupal
+  #   URL: 'https://www.drupal.org/u'
+  #   Username: workgroupro
+  #   Icon-Class: fa-brands fa-drupal
+  #   Color: '#0077C0'
+  #   Text_Color: '#ffffff'
+
+    # TWITCH
+  #  - Name: Twitch
+  #   URL: 'https://twitch.tv'
+  #   Username: workgroupro
+  #   Icon-Class: fab fa-twitch
+  #   Color: '#9147fe'
+  #   Text_Color: '#ffffff'
+
+    # VIMEO
+  #  - Name: Vimeo
+  #   URL: 'https://vimeo.com'
+  #   Username: workgroupro
+  #   Icon-Class: fab fa-vimeo-v
+  #   Color: '#1ab7ea'
+  #   Text_Color: '#ffffff'
+
+    # MESSENGER
+  # - Name: Messenger
+  #   URL: https://m.me
+  #    Username: workgroupro
+  #    Color: '#006AFF'
+  #    Icon-Class: fab fa-facebook-messenger
+
+    # Cal.com
+  #  - Name: Cal.com
+  #   URL: https://cal.com
+  #   Username: workgroupro
+  #   Color: '#888888'
+  #   Icon-Class: fa fa-calendar-check
+  #  Text_Color: '#ffffff'
+
+    # REDDIT
+  # - Name: Reddit
+  #   URL: http://reddit.com/u
+  #   Username: workgroupro
+  #    Color: '#FF4500'
+  #    Icon-Class: fab fa-reddit-alien
+
+  #   # WHATSAPP
+  # - Name: WhatsApp
+  #   URL: https://wa.me
+  #   Username: '+1123456789'
+  #   Color: '#25d366'
+  #   Icon-Class: fab fa-whatsapp
+
+    # TELEGRAM
+  # - Name: Telegram
+  #  URL: http://telegram.me
+  #  Username: workgroupro
+  #  Color: '#0088cc'
+  #   Icon-Class: fab fa-telegram-plane
+
+  # SNAPCHAT
+  #- Name: Snapchat
+  #  URL: https://www.snapchat.com/add
+  #   Username: 'workgroupro'
+  #   Color: '#FFFC00'
+  #  Text_Color: '#000000'
+  #   Icon-Class: fab fa-snapchat-ghost
+
+    # STEAM
+  #  - Name: Steam
+  #   URL: https://steamcommunity.com/id
+  #  Username: 'workgroupro'
+  #   Color: '#66c0f4'
+  #   Text_Color: '#000000'
+  #    Icon-Class: fab fa-steam
+
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
+
+    # PINTEREST
+  #  - Name: Pinterest
+  #   URL: https://pinterest.com
+  #  Username: 'workgroupro'
+  #  Color: '#E60023'
+  #  Icon-Class: fab fa-pinterest
+
+    # BEHANCE
+  # - Name: Behance
+  #   URL: https://www.behance.net
+  #   Username: workgroupro
+  #   Color: '#1769ff'
+  #  Icon-Class: fab fa-behance
+
+  #   # DRIBBBLE
+  # - Name: Dribbble
+  #   URL: https://dribbble.com
+  #   Username: 
+  #   Color: '#ea4c89'
+  #   Icon-Class: fab fa-dribbble
+
+    # DEVIANTART
+  # - Name: DeviantArt
+  #   URL: https://www.deviantart.com
+  #   Username: workgroupro
+  #   Icon-Class: fab fa-deviantart
+  #  Color: '#05CC46'
+  #   Text_Color: '#ffffff'
+
+    # FIGMA
+  #  - Name: Figma
+  #   URL: https://www.figma.com
+  #   Username: '@workgroupro'
+  #    Icon-Class: fab fa-figma
+  #    Color: '#ff2865'
+  #    Text_Color: '#ffffff'
+
+    # SPOTIFY
+  #  - Name: Spotify
+  #    URL: http://open.spotify.com/user
+  #    Username: 314ihryk
+  #    Color: '#1DB954'
+  #    Icon-Class: fab fa-spotify
+
+  # SOUNDCLOUD
+  # - Name: SoundCloud
+  #   URL: https://www.soundcloud.com
+  #  Username: workgroupro
+  #  Color: '#FE5000'
+  #  Icon-Class: fab fa-soundcloud
+
+  #  - Name: Skype
+  #   URL: https://join.skype.com/invite/e6vMrfsYKn9e
+  #    Icon-Class: fa-brands fa-skype
+  #   Color: '#00aff0'
+  #   Text_Color: '#ffffff'
+
+  #    # TIKTOK
+  # - Name: TikTok
+  #   URL: https://www.tiktok.com
+  #   Username: 
+  #   Color: '#FE2C55'
+  #   Icon-Class: fab fa-tiktok
+
+    # MEDIUM
+  #  - Name: Medium
+  #    URL: 'https://medium.com'
+  #   Username: '@workgrouproi'
+  #   Icon-Class: fab fa-medium-m
+  #   Color: '#00ab6c'
+  #    Text_Color: '#ffffff'
+
+    # DEV.TO
+  #  - Name: Dev.to
+  #   URL: 'https://dev.to'
+  #   Username: workgroupro
+  #   Icon-Class: fab fa-dev
+  #    Color: '#ffffff'
+  #   Text_Color: '#000000'
+
+  #   # TUMBLR
+  # - Name: Tumblr
+  #   URL: https://www.tumblr.com
+  #   Username: 
+  #   Color: '#35465c'
+  #   Icon-Class: fab fa-tumblr
+
+  # BUY ME A COFFEE
+  # - Name: BuyMeACoffee
+  #   URL: 'https://buymeacoffee.com'
+  #    Username: workgroupro
+  #    Icon-Class: fas fa-mug-hot
+  #    Color: '#FFDD00'
+  #    Text_Color: '#000000'
+
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# url: "https://yipianye.github.io" # the base hostname & protocol for your site
+# baseurl: "/docs" # the subpath of your site, e.g. /blog
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
