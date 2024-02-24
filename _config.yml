@@ -49,7 +49,7 @@ links:
     Username: workgroupro
     Color: '#708090'
     Icon-Class: fab fa-vk
-    Text_Color: '#907090'
+    Text_Color: '#0000ff'
     
    # TWITTER
   - Name: Twitter
