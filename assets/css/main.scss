@@ -22,9 +22,9 @@ html {
             transform: scale(1.05);
         }
         /* background-color 背景黑色 */  
-       /*   ::after {
-           background-color: black;
-        }   */ 
+       ::after {
+           background-color: #e8f6f3;  //护眼蓝色
+        }   
     }
     .links {
         transition: all ease 0.25s;
