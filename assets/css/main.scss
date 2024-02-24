@@ -21,9 +21,10 @@ html {
         &:hover {
             transform: scale(1.05);
         }
-        ::after {
-          //    background-color: black;
-        }
+        /* background-color 背景黑色 */  
+       /*   ::after {
+           background-color: black;
+        }   */ 
     }
     .links {
         transition: all ease 0.25s;
