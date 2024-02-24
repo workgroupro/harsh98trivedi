@@ -8,7 +8,7 @@ tagline: Hello friend, just some links, no other content!
 Image_URL: https://yxw.me/img/workgroup.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://yxw.me/img/3.png
+Cover_Image: https://yxw.me/img/3png
 
 # SOCIAL MEDIA
 links:
@@ -47,8 +47,9 @@ links:
   - Name: vk
     URL: http://vk.com
     Username: workgroupro
-    Color: '#00bfff'
+    Color: '#708090'
     Icon-Class: fab fa-vk
+    Text_Color: '#907090'
     
    # TWITTER
   - Name: Twitter
