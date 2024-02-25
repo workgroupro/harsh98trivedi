@@ -9,6 +9,15 @@
 @tailwind components;
 @tailwind utilities;
 
+
+:root 
+{ 
+background:#ff0000;
+background: url("https://yxw.me/img/win/b.jpg") 0 0 no-repeat,
+            url("https://yxw.me/img/win/taiyang.webp") 200px 0 no-repeat,
+            url("https://yxw.me/img/win/g.png") 400px 201px no-repeat;
+ }
+
 body,
 html {
     a{
